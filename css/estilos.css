@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Nanum+Myeongjo&display=swap');
+body{
+    background-image: url(../imagenes/fondoazul.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+   }
+.portada{
+ background-image: url(../imagenes/blue1.jpg);
+ background-size: cover;
+}
+.nav a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+ }
+ a:hover{
+    color:azure !important;
+    font-weight: bolder;
+}
+h1{
+    font-size: 30px;
+    font-weight: 600;
+ }
+ 
+h2{font-size: 18px;
+    font-weight: 600;
+} 
+ h3{
+    color: black;
+}
+h4{
+    font-size: 20px;
+    font-weight: bolder;
+}
+p{
+    font-size: 18px;
+    color: black;
+    font-weight:600;
+}
+.box{
+    border: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px;
+    background-image: url(../imagenes/blue1.jpg);
+    background-size: cover;
+}
+.card{
+    border: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px;
+    background-image: url(../imagenes/blue6.jpg);
+    background-size: cover;
+}
+.btn-dark:hover{
+    font-weight: bolder;
+}
+table{
+    border-style: solid;
+}
+footer{
+    background-color: black;
+}
+footer a{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.fab{
+    font-size: 30px;
+    color: rgb(33, 47, 235);
+    padding: 0px  16px;
+ }
+
+ .form-label{
+    color: rgb(10, 10, 10);
+    font-size: 18px;
+    font-weight: bolder;
+ }
+.card{
+    background-image: url(../imagenes/blue3.jpg);
+    background-size: cover;
+}
